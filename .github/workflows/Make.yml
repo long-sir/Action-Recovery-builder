@@ -19,7 +19,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/MlgmXyysd/android_device_duoqin_k61v1.git'
+        default: 'https://github.com/long-sir/Action-Recovery-builder/releases/download/1425833639/recovery.img'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
